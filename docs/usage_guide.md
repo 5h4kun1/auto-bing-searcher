@@ -139,9 +139,3 @@ A: Try re-installing the Digistump drivers or follow Digistump troubleshooting d
 * Respect website terms of service and laws: this project is educational.
 
 ---
-
-If you'd like, I can now:
-
-* Generate the `LICENSE` file (MIT) for the repo, or
-* Produce a ready-to-paste `.gitignore` and a tiny CI check, or
-* Create a `firmware/auto_bing_searcher.ino` ready to push to the repo (if you want the final version saved into the canvas). Which one?
